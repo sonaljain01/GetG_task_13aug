@@ -1,0 +1,6 @@
+{
+    "name": "task_13_08",
+    "image": "mcr.microsoft.com/vscode/devcontainers/typescript-node:14",
+    "postCreateCommand": "npm install",
+    "forwardPorts": [3000]
+  }
